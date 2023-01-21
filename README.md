@@ -1,6 +1,6 @@
 <html>
     <h1>Rij mee met Verley</h1>
-    <h2>DM op Instagram</h2> (Jarne Verley)
+    <h3>DM op Instagram (Jarne Verley) </h3>
     
     LET OP! tijden kunnen wijzigen!
 
