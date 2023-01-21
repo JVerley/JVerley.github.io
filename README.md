@@ -1,5 +1,3 @@
-# Rij mee met Verley
- 
 <html>
     <h1>Rij mee met Verley</h1>
     <h2>DM op Instagram</h2>
