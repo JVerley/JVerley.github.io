@@ -11,9 +11,4 @@
     vrijdag:   06u30 en 13u30
 
     Laast gewijzigd op 21/01/2023 om 20u45
-    
-        <script language="Javascript">
-      const date = new Date(document.lastModified);
-      document.write('Laast gewijzigd op: ' + date);
-    </script>
 </html>
