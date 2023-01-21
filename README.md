@@ -1,7 +1,8 @@
 <html>
     <h1>Rij mee met Verley</h1>
-    <h2>DM op Instagram</h2>
-    <h3>LET OP! tijden kunnen wijzigen!</h3>
+    <h2>DM op Instagram</h2> (Jarne Verley)
+    
+    LET OP! tijden kunnen wijzigen!
 
     maandag:   06u30 en 18u45
     dinsdag:   11u50 en 18u45
